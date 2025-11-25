@@ -1,9 +1,9 @@
 # Noctis.OmnivoreDucks
 <p>Omnivore Ducks. Thats it.</p>
 <p>FAQ:</p>
-<p>Compatible with other mods altering ducks?</p>
+<li>Compatible with other mods altering ducks?</li>
 <li>Yes. Its a simple patch.</li>
-<p>CE?</p>
+<li>CE?</li>
 <li>Probably. Don't use it.</li>
-<p>License?</p>
+<li>License?</li>
 <li>Unilicense.</li>
