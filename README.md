@@ -6,4 +6,4 @@
 <p>CE?</p>
 <p><i>Probably. Don't use it.</i></p>
 <p>License?</p>
-<p><i>Unilicense.</i></p>
+<p><i>Unilicense. Do whatever you want with it, I don't care.</i></p>
