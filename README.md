@@ -1,5 +1,5 @@
 # Noctis.OmnivoreDucks
-<p>Omnivore Ducks. Thats it.</p>
+<p>Omnivore Animals. Thats it.</p>
 <p><b>FAQ</b>:</p>
 <p>Compatible with other mods altering ducks?</p>
 <p><i>Yes. Its a simple patch.</i></p>
