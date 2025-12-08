@@ -1,0 +1,8 @@
+<Patch>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Chicken"]/race/foodType</xpath>
+        <value>
+            <foodType>OmnivoreRoughAnimal</foodType>
+        </value>
+    </Operation>
+</Patch>
