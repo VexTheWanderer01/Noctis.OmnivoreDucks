@@ -1,0 +1,12 @@
+<Operation Class="PatchOperationFindMod">
+  <mods>
+    <li>Odyssey</li>
+  </mods>
+  <match Class="PatchOperationReplace">
+    <xpath>/Defs/MainButtonDef[defName="Factions"]/tabWindowClass</xpath>
+        <xpath>Defs/ThingDef[defName="Mink"]/race/foodType</xpath>
+        <value>
+            <foodType>OmnivoreRoughAnimal</foodType>
+        </value>
+  </match>
+</Operation>
